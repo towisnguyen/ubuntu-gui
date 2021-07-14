@@ -1,6 +1,5 @@
 # git-basic
 # test git command: 
-
 #1.add .
 #2.push origin <branchname>(push the branch), push --all(push all branches), push origin:<branchname>(delete a branch)
 #3.commit -m ""
