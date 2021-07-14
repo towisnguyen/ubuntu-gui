@@ -1,4 +1,5 @@
 # git-basic
+# authen: git remote set-url origin git+ssh://git@github.com/username/reponame.git
 # test git command: 
 ## 1.add .
 ## 2.push origin <branchname>(push the branch), push --all(push all branches), push origin:<branchname>(delete a branch)
